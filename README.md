@@ -1,4 +1,4 @@
 # autoclick
-Clicks at given time with set offset. Currently WIP
+Clicks at given system time with set offset(unit in miliseconds). Currently WIP
 
-<sub><sup>I may or may not have used this program to register my college courses.</sup></sub>
+<sub><sup>I may or may not have used this program when registering my college courses.</sup></sub>
